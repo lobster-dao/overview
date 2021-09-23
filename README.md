@@ -40,7 +40,7 @@ They are what Lobsters are about. You can get one if you are:
 
 If you don’t qualify as either one of the people above - there is no other way to get it. There is no sale, muh friend allocation, or whatever. *Are you still not a lobster? Ngmi!*
 
-Here is the link to the distribution sheet related to which members got how much: IPFS [link](https://bafybeid2kl5mknh3unftkc5uvp5uo3gwffh77h34psfzfdbz4xoajhihyi.ipfs.infura-ipfs.io/) or if it dies, [here](https://docs.google.com/spreadsheets/d/1vjGXNyAMmudhZ6R7_qAPPs7RgES5DbMiiSAoeMnngw4/edit?usp=sharing) is the google link which might also die after some time. With using this [link](https://telegra.ph/How-to-find-yourself-in-the-table-quickly-and-find-out-if-I-am-deserving-the-NFT-09-19) you can see how to check if you are eligible for a drop and get your Telegram ID. 
+Here is the link to the distribution sheet related to which members got how much: IPFS [link 1](https://bafybeid2kl5mknh3unftkc5uvp5uo3gwffh77h34psfzfdbz4xoajhihyi.ipfs.infura-ipfs.io/) and [link 2](https://bafybeigsu2qg7ffwiq6wi6s53kfytdeppdsfesnwi3smdu3cia2pe4czda.ipfs.infura-ipfs.io/) or if it dies, [here](https://docs.google.com/spreadsheets/d/1vjGXNyAMmudhZ6R7_qAPPs7RgES5DbMiiSAoeMnngw4/edit?usp=sharing) is the google link which might also die after some time. With using this [link](https://telegra.ph/How-to-find-yourself-in-the-table-quickly-and-find-out-if-I-am-deserving-the-NFT-09-19) you can see how to check if you are eligible for a drop and get your Telegram ID. 
 
 ## How will the process work?
 
