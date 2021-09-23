@@ -1,4 +1,4 @@
-## Hate reading ? [Watch the video](https://twitter.com/10b57e6da0/status/1437718925710594048)
+[Watch the video](https://twitter.com/10b57e6da0/status/1437718925710594048)
 
 # Hey there, seafood family! 
 
