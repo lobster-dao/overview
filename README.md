@@ -54,7 +54,7 @@ Here is the link to the distribution sheet related to which members got how much
 
 ### Why 6751?
 
-LobsterDAO… 10b57e6da0… 105760… Now try the inverse, like looking at your own reflection: 067501. Remove the zeros and you end up with a number. It seemed cute because there are over 3000 active members. And a few of them get more than 1. It just… fits well. It is also a great example of [1337 or “leet”](https://en.wikipedia.org/wiki/Leet) slang.
+LobsterDAO… 10b57e6da0… 105760… Now try the inverse, like looking at your own reflection: 067501. Remove the zeros and you end up with a number. It seemed cute because there are over 3000 active members. And a few of them get more than 1.
 
 The name meme came from Curve deployment during DeFi summer of 2020, read more [here](https://newsletter.thedefiant.io/p/curve-assets-soar-over-1b-after-one). 
 
@@ -100,6 +100,6 @@ No conversations about their trading or related topics will be tolerated whatsoe
 
 - It must be said that this is an open-contributor project. Developers who helped bring this together are mostly anon, and nobody knows if they are good at what they do or not. They just took the time to put it together. The code can have bugs, the approvals you set up can steal your money, anything can happen. There is no company or financial benefit to even perform an audit, so keep this in mind. You can lose both your money and your sanity.
 
-- Nobody will keep working on developing some games or whatever, the collection is more in the style of “pfp” aka profile picture related. There are no admins who will help you with questions, nobody will pump them, nothing like that. Forget about these things.
+- Nobody will keep working on developing some games or whatever, the collection is more in the style of “pfp” aka profile picture related. There are no admins who will help you with questions. Forget about these things.
 
 - When it comes to the bot distribution, it’s also hosted by anon devs, so they may steal your data as in the wallet associated with your telegram account. Will they? Nobody knows. Most likely they won’t. Just use a new clean wallet if it bothers you.
