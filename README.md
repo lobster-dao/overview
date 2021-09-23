@@ -1,4 +1,8 @@
-[![Watch the video](https://i.ibb.co/hfcXS9R/2021-09-23-19-10-20.jpg)](https://twitter.com/10b57e6da0/status/1437718925710594048)
+
+
+[![Watch the video](https://i.ibb.co/bdXMY2F/Colorful-Neon-Marble-Gaming-You-Tube-Channel-Art-38.png)](https://twitter.com/10b57e6da0/status/1437718925710594048)
+
+
 
 # Hey there, seafood family! 
 
