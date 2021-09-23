@@ -1,4 +1,4 @@
-[Watch the video](https://twitter.com/10b57e6da0/status/1437718925710594048)
+[![Watch the video](https://i.ibb.co/hfcXS9R/2021-09-23-19-10-20.jpg)](https://twitter.com/10b57e6da0/status/1437718925710594048)
 
 # Hey there, seafood family! 
 
@@ -46,7 +46,6 @@ Here is the link to the distribution sheet related to which members got how much
 ## How will the process work?
 
 1. The distribution and the model [were discussed](https://lobsters.substack.com/p/lobsterdao-nft-3-propuesta-publica) openly for weeks, nothing was gated. The collection was technically prepared by a few amazing contributors, thanks to them.
-
 2. When the [telegram bot](https://github.com/lobster-dao/lobster-tg-bot) is up, you need to submit your address (see more in privacy notice at the bottom) within the time specified. If you miss the slot, you are ngmi, that’s over then. All the pieces which are not claimed will go to DAO.
 3. A json output is generated and uploaded into the contract. Once the contract is up, you will be able to use that address and claim it on UI which will match it with the merkle root. At this point, you will just have an NFT unique token but no image to be seen.
 4. Once the time is up, the deployer will activate Chainlink VRF which then matches the path to IPFS storage where the collection was pre-uploaded. This way, developers promise randomization of the loot box concept will be fully transparent! Which is cool.
@@ -64,22 +63,6 @@ The name meme came from Curve deployment during DeFi summer of 2020, read more [
 Blockchain Lobsters as a [channel](https://t.me/blockchain_lobsters) and then as a [chat-community](https://t.me/lobsters_chat) have existed since summer 2018 when the 2 year bear market carnage was going on in full force. It spawned out after CCR (CryptoCodeReviews) chat was closed by the Air Conditioner in 2018. But there was a need to ask semi-technical and economic research questions, so Lobsters took that role for some. We try not to gamble too much, and focus on product things. Unless we get drunk!
 
 There was never a coin, marketing, or anything monetary involved. Just a place to research anything-crypto, share ideas, ask questions. Perhaps, this is why some like the chat. It will stay that way, as the ethos is to remain impartial, simply sharing knowledge and opportunities. Anyway, the rest is history, all the conversations are open after all. Read back, ctrl+f on some topics, and feel free to contribute new information. 
-
-#### Community-made chats and statistics, not “officially” monitored:
-|||
-|--|--|
-|Posts with top replies & Daily stats| https://t.me/lobster_watcher |
-| Daily Newsletter | https://t.me/lobsters_daily & https://twitter.com/lobsters_daily |
-|Job Board|https://t.me/lobsters_hr|
-|NFT-themed Chat|https://t.me/NFT_avenue|
-
-#### Official links:
-|||
-|--|--|
-|Main TG channel|https://t.me/blockchain_lobsters|
-|Main Chat|https://t.me/lobsters_chat|
-|Official Twitter |https://twitter.com/10b57e6da0|
-|Substack|https://lobsters.substack.com|
 
 ## Integration ideas: things one could do with 10b57e6da0 NFT
 
@@ -104,3 +87,19 @@ No conversations about their trading or related topics will be tolerated whatsoe
 - Nobody will keep working on developing some games or whatever, the collection is more in the style of “pfp” aka profile picture related. There are no admins who will help you with questions. Forget about these things.
 
 - When it comes to the bot distribution, it’s also hosted by anon devs, so they may steal your data as in the wallet associated with your telegram account. Will they? Nobody knows. Most likely they won’t. Just use a new clean wallet if it bothers you.
+
+#### Community-made chats and statistics, not “officially” monitored:
+|||
+|--|--|
+|Posts with top replies & Daily stats| https://t.me/lobster_watcher |
+| Daily Newsletter | https://t.me/lobsters_daily & https://twitter.com/lobsters_daily |
+|Job Board|https://t.me/lobsters_hr|
+|NFT-themed Chat|https://t.me/NFT_avenue|
+
+#### Official links:
+|||
+|--|--|
+|Main TG channel|https://t.me/blockchain_lobsters|
+|Main Chat|https://t.me/lobsters_chat|
+|Official Twitter |https://twitter.com/10b57e6da0|
+|Substack|https://lobsters.substack.com|
