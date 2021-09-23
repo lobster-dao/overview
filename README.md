@@ -17,7 +17,7 @@ The collection has different rarity traits, inspired by cryptopunks and other pf
 
 You decide for yourself what’s rare.
 
-## The collection has 7.5% royalties 
+### The collection has 7.5% royalties 
 
 **70%** of that goes to DAO governance that includes community multisig, snapshot page of voters, and **30%** goes to the artist side. While the collection is not an NFT project, this allows the collection to have some longevity and cooperation possible, in case holders decide they want to do something. They also don’t have to do anything. Royalties are unfortunately, due to how NFT markets are, are kind of an old hand-maintained trash… but it would be great to change this as EIP-standards develop in this direction. We are aware of `EIP2981`, but this doesn’t really change much with regard to how Opensea works.
 
@@ -52,11 +52,11 @@ Here is the link to the distribution sheet related to which members got how much
 5. Then the baseURL changes to the right path as assigned everywhere, and the collection is considered deployed. The bot and its database are promised to be deleted, and the work is done. Somebody should make a snapshot page and assign multisig
 6. Done. Don’t expect any work. Collect the art and piss off.
 
-## Why 6751?
+### Why 6751?
 
 LobsterDAO… 10b57e6da0… 105760… Now try the inverse, like looking at your own reflection: 067501. Remove the zeros and you end up with a number. It seemed cute because there are over 3000 active members. And a few of them get more than 1. It just… fits well. It is also a great example of [1337 or “leet”](https://en.wikipedia.org/wiki/Leet) slang.
 
-The name meme came from Curve deployment during DeFi summer of 2020, read more here. 
+The name meme came from Curve deployment during DeFi summer of 2020, read more [here](https://newsletter.thedefiant.io/p/curve-assets-soar-over-1b-after-one). 
 
 ## What is Lobsters Chat and its ethos? How did it all begin?
 
@@ -64,7 +64,7 @@ Blockchain Lobsters as a [channel](https://t.me/blockchain_lobsters) and then as
 
 There was never a coin, marketing, or anything monetary involved. Just a place to research anything-crypto, share ideas, ask questions. Perhaps, this is why some like the chat. It will stay that way, as the ethos is to remain impartial, simply sharing knowledge and opportunities. Anyway, the rest is history, all the conversations are open after all. Read back, ctrl+f on some topics, and feel free to contribute new information. 
 
-### Community-made chats and statistics, not “officially” monitored:
+#### Community-made chats and statistics, not “officially” monitored:
 |||
 |--|--|
 |Posts with top replies & Daily stats| https://t.me/lobster_watcher |
@@ -72,7 +72,7 @@ There was never a coin, marketing, or anything monetary involved. Just a place t
 |Job Board|https://t.me/lobsters_hr|
 |NFT-themed Chat|https://t.me/NFT_avenue|
 
-### Official links:
+#### Official links:
 |||
 |--|--|
 |Main TG channel|https://t.me/blockchain_lobsters|
@@ -84,10 +84,13 @@ There was never a coin, marketing, or anything monetary involved. Just a place t
 
 There are a few ways other builders can use **10b57e6da0** NFTs beyond what pfps entail:
 
-Inspired by loot, the collection can be split into metadata pieces and build a game on top of the main collection, and perhaps even make the traits re-interact with each other.
-The initial list of the distribution very strongly represents active and knowledgeable users, fully anonymized. As such, that list is quite valuable as a snapshot of DeF-native users who are active. Perhaps, cool teams like [DegenScore](https://degenscore.com/) can implement this as an extra gateway of powerful users, or other teams can decide to use this list for retroactive protocol airdrops. They could, potentially, also just take the NFT holder list, but owning an NFT doesn’t mean you are smart initially, just means you acquired it.
-The royalties occurring go to governance after all, so the DAO can decide whatever else to sponsor, foster, or enable. The possibilities are there if someone wants it.
-NFTs can be used to get preferential treatment at conferences or as a ticket to anywhere from a discord server to a conference in the real world. 
+- Inspired by loot, the collection can be split into metadata pieces and build a game on top of the main collection, and perhaps even make the traits re-interact with each other.
+
+- The initial list of the distribution very strongly represents active and knowledgeable users, fully anonymized. As such, that list is quite valuable as a snapshot of DeF-native users who are active. Perhaps, cool teams like [DegenScore](https://degenscore.com/) can implement this as an extra gateway of powerful users, or other teams can decide to use this list for retroactive protocol airdrops. They could, potentially, also just take the NFT holder list, but owning an NFT doesn’t mean you are smart initially, just means you acquired it.
+
+- The royalties occurring go to governance after all, so the DAO can decide whatever else to sponsor, foster, or enable. The possibilities are there if someone wants it.
+
+- NFTs can be used to get preferential treatment at conferences or as a ticket to anywhere from a discord server to a conference in the real world. 
 
 ## Privacy concerns, legal words, and disclaimers 
 
