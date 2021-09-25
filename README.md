@@ -9,7 +9,6 @@ Opensea:
 [![Watch the video](https://i.ibb.co/bdXMY2F/Colorful-Neon-Marble-Gaming-You-Tube-Channel-Art-38.png)](https://twitter.com/10b57e6da0/status/1437718925710594048)
 
 
-
 # Hey there, seafood family! 
 
 **10b57e6da0 NFT** drop is a commemorative art event for the community in the form of NFTs. It’s a loot box where you can pull out one of the cool pieces: a shrimp, a langoustine, a lobster, and… something else? Nobody will know in advance, that’s also why it's fun.
@@ -76,6 +75,10 @@ The name meme came from Curve deployment during DeFi summer of 2020, read more [
 Blockchain Lobsters as a [channel](https://t.me/blockchain_lobsters) and then as a [chat-community](https://t.me/lobsters_chat) have existed since summer 2018 when the 2 year bear market carnage was going on in full force. It spawned out after CCR (CryptoCodeReviews) chat was closed by the Air Conditioner in 2018. But there was a need to ask semi-technical and economic research questions, so Lobsters took that role for some. We try not to gamble too much, and focus on product things. Unless we get drunk!
 
 There was never a coin, marketing, or anything monetary involved. Just a place to research anything-crypto, share ideas, ask questions. Perhaps, this is why some like the chat. It will stay that way, as the ethos is to remain impartial, simply sharing knowledge and opportunities. Anyway, the rest is history, all the conversations are open after all. Read back, ctrl+f on some topics, and feel free to contribute new information. 
+
+History of the pre-discussions at:
+- https://t.me/lobsters_chat/261364
+- https://t.me/lobsters_chat/265688
 
 <> <> <> <> <> <> <> <> <>
 
