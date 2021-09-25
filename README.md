@@ -48,9 +48,9 @@ They are what Lobsters are about. You can get one if you are:
 
 - Having been involved with developers trying to put things together, which is mentioned on the second sheet of the excel “extra”. Thanks for their work, blz no rug!
 
-- **Holding a cryptopunk or a Bored Ape** will let you claim on FCFS basis one of the pieces per holdrs, 100 and 75 pieces attributed respectively. These communities were one of the earliest and largest in the NFT space, so honouring them seemed sensible.
+- **Holding a cryptopunk or a Bored Ape** will let you claim on FCFS basis one of the pieces per holdrs, 150 and 100 pieces attributed respectively. These communities were one of the earliest and largest in the NFT space, so honouring them seemed sensible.
 
-- According to that, **about 303 will be remaining for the DAO governance by 10b57e6da0 NFT holders**, which has its own snapshot page and its own multisig of community members. They can be used for whatever the holders decide, and can also be for… nothing. Unclaimed pieces from the lists above will also go to DAO.
+- According to that, **over 375 will be remaining for the DAO governance by 10b57e6da0 NFT holders**, which has its own snapshot page and its own multisig of community members. They can be used for whatever the holders decide, and can also be for… nothing. Unclaimed pieces from the lists above will also go to DAO.
 
 If you don’t qualify as either one of the people above - there is no other way to get it. There is no sale, muh friend allocation, or whatever. *Are you still not a lobster? NGMI!*
 
