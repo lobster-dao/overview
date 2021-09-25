@@ -1,4 +1,7 @@
-
+Token Contract: 
+Multisig: 
+Opensea: 
+-//-: 
 
 [![Watch the video](https://i.ibb.co/bdXMY2F/Colorful-Neon-Marble-Gaming-You-Tube-Channel-Art-38.png)](https://twitter.com/10b57e6da0/status/1437718925710594048)
 
@@ -31,9 +34,6 @@ You decide for yourself what’s rare.
 ### The collection has 7.5% royalties 
 
 **70%** of that goes to DAO governance that includes community multisig, snapshot page of voters, and **30%** goes to the artist side. While the collection is not an NFT project, this allows the collection to have some longevity and cooperation possible, in case holders decide they want to do something. They also don’t have to do anything. Royalties are unfortunately, due to how NFT markets are, are kind of an old hand-maintained trash… but it would be great to change this as EIP-standards develop in this direction. We are aware of `EIP2981`, but this doesn’t really change much with regard to how Opensea works.
-
-Contract: 
-More to be added: 
 
 ## How to get one? Distribution report on the transparency
 
