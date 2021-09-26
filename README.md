@@ -1,6 +1,6 @@
 Token Contract: 
 
-Multisig: 
+Multisig: https://etherscan.io/address/0x557068a9b7d66f97a61b97c80541eb17672e1e6f
 
 Opensea: 
 
