@@ -88,7 +88,7 @@ There are a few ways other builders can use **10b57e6da0** NFTs beyond what pfps
 
 - Inspired by loot, the collection can be split into metadata pieces and build a game on top of the main collection, and perhaps even make the traits re-interact with each other.
 
-- The initial list of the distribution very strongly represents active and knowledgeable users, fully anonymized. As such, that list is quite valuable as a snapshot of DeF-native users who are active. Perhaps, cool teams like [DegenScore](https://degenscore.com/) can implement this as an extra gateway of powerful users, or other teams can decide to use this list for retroactive protocol airdrops. They could, potentially, also just take the NFT holder list, but owning an NFT doesn’t mean you are smart initially, just means you acquired it.
+- The initial list of the distribution very strongly represents active and knowledgeable users, fully anonymized. As such, that list is quite valuable as a snapshot of DeF-native users who are active. Perhaps, cool teams like [DegenScore](https://degenscore.com/) can implement this as an extra gateway of powerful users, or other teams can decide to use this list for retroactive protocol airdrops. They could, potentially, also just take the NFT holder list, but owning an NFT doesn’t mean you are smart initially, just means you acquired it. [See an example](https://twitter.com/lawmaster/status/1441831217649774592).
 
 - The royalties occurring go to governance after all, so the DAO can decide whatever else to sponsor, foster, or enable. The possibilities are there if someone wants it.
 
