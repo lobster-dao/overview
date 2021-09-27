@@ -37,6 +37,10 @@ You decide for yourself what’s rare.
 
 **70%** of that goes to DAO governance that includes community multisig, snapshot page of voters, and **30%** goes to the artist side. While the collection is not an NFT project, this allows the collection to have some longevity and cooperation possible, in case holders decide they want to do something. They also don’t have to do anything. Royalties are unfortunately, due to how NFT markets are, are kind of an old hand-maintained trash… but it would be great to change this as EIP-standards develop in this direction. We are aware of `EIP2981`, but this doesn’t really change much with regard to how Opensea works.
 
+### The collection can have a snapshot page for governance
+
+[Snapshot](https://snapshot.org/#/10b57e6da0.eth) page https://snapshot.org/#/10b57e6da0.eth can be used together with [multisig](https://etherscan.io/address/0x557068a9b7d66f97a61b97c80541eb17672e1e6f) in order to decide what to do with NFTs or any other in the multisig. The collection or the NFTs have no governance over chats, rules, or anything else related to people. Ot's just governance for fun, and has no value or utility. It's just there to potentially align community in a better way. 
+
 ## How to get one? Distribution report on the transparency
 
 This is, unfortunately, not a money grab, and we kinda all have ethos (read below)... which sucks! As such, the distribution is fully aimed at existing contributing members getting **85%** of the collection. All verifiable real people who have been amazing contributors sharing news, alpha, research, their knowledge. 
