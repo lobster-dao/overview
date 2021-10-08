@@ -1,27 +1,30 @@
+Opensea Collection: 
+
 Token Contract: 
 
 Multisig: https://etherscan.io/address/0x557068a9b7d66f97a61b97c80541eb17672e1e6f
-
-Opensea: 
 
 -//-: 
 
 [![Watch the video](https://i.ibb.co/bdXMY2F/Colorful-Neon-Marble-Gaming-You-Tube-Channel-Art-38.png)](https://twitter.com/10b57e6da0/status/1437718925710594048)
 
+*lobsterdao NFT is a badge of honour and IQ, some say - but, of course, we are biased* 
+
+*if you have a lobsterdao nft, gm to you and you are gmi*
 
 # Hey there, seafood family! 
 
 **10b57e6da0 NFT** drop is a commemorative art event for the community in the form of NFTs. It’s a loot box where you can pull out one of the cool pieces: a shrimp, a langoustine, a lobster, and… something else? Nobody will know in advance, that’s also why it's fun.
 
-The collection contains **6751 pieces** and is fully done by [Klibansky](https://josephklibansky.com/), a famous contemporary artist. The distribution of the pieces is aimed at members who have contributed research to the chat, about **83%** of the total supply go to them. A few of the pieces were also reserved for known NFT collectors and a few also were reserved for governance. Over 3 thousand holders at first, thanks to over 3 years of the community forming together!
+The collection contains **6751 pieces** and is fully done by [Klibansky](https://josephklibansky.com/), a famous contemporary artist. The distribution of the pieces is aimed at members who have contributed research to the chat, about **83%** of the total supply go to them initially. A few of the pieces were also reserved for known NFT collectors and all the unclaimed go to governance. Over a thousand holders at first, thanks to over 3 years of the community forming together!
 
 *Are you still not a lobster? NGMI, pleb! Read below to learn wtf this is.*
 
-## 10b57e6da0 NFT Seafood Drop - What’s rare?
+## 10b57e6da0 NFT Seafood Drop - Traits?
 
-The sea kingdom consists of various creatures, with its lore having almost no boundaries! Humans don’t even know to this date if the deep oceans have fully been explored… So as the crypto industry. There is a lot of research going on every day, primitives are developed as more developers join us. Therefore, the lore of the two can really be seen as similar!
+The sea kingdom consists of various creatures, with its lore having almost no boundaries! Humans don’t even know to this date if the deep oceans have fully been explored… So as the crypto industry. There is a lot of research going on every day, primitives are developed as more developers join us. Therefore, the lore of the two is similar.
 
-Going with that story and given that Lobsters are about crustaceans, the collection features a shrimp, a langoustine, a lobster... You would expect the evolution to occur that way, but maybe the community decides to have the inverse? That can change any moment! 
+Going with that story and given that lobsters are about crustaceans, the collection features a shrimp, a langoustine, a lobster... You would expect the evolution to occur that way, but maybe the community decides to have the inverse? That can change any moment! 
 
 *Are you a diamond hands lobster or sand hands dumping the bottoms?*
 
@@ -31,19 +34,17 @@ Going with that story and given that Lobsters are about crustaceans, the collect
 
 The collection has different rarity traits, inspired by cryptopunks and other pfp projects, because it just works. But instead of having the usual cigarette-cap-etc. the rarity comes from different materials of the claws, the backgrounds, and so on. It’s more about aesthetic enjoyment, so don’t let the original holders or anyone else dictate you if something is better or rarer. 
 
-You decide for yourself what’s rare.
-
 ### The collection has 7.5% royalties 
 
-**70%** of that goes to DAO governance that includes community multisig, snapshot page of voters, and **30%** goes to the artist side. While the collection is not an NFT project, this allows the collection to have some longevity and cooperation possible, in case holders decide they want to do something. They also don’t have to do anything. Royalties are unfortunately, due to how NFT markets are, are kind of an old hand-maintained trash… but it would be great to change this as EIP-standards develop in this direction. We are aware of `EIP2981`, but this doesn’t really change much with regard to how Opensea works.
+**70%** of that goes to DAO governance that is managed by community multisig, and **30%** goes to the artist side. While the collection is not an NFT project, this allows the collection to have some longevity and cooperation possible, in case holders decide they want to do something. They also don’t have to do anything. Royalties are unfortunately, due to how NFT markets are, are kind of an old hand-maintained manual work… but it would be great to change this as EIP-standards develop in this direction. We are aware of `EIP2981`, but this doesn’t really change much with regard to how Opensea works.
 
 ### The collection can have a snapshot page for governance
 
-[Snapshot](https://snapshot.org/#/10b57e6da0.eth) page https://snapshot.org/#/10b57e6da0.eth can be used together with [multisig](https://etherscan.io/address/0x557068a9b7d66f97a61b97c80541eb17672e1e6f) in order to decide what to do with NFTs or any other in the multisig. The collection or the NFTs have no governance over chats, rules, or anything else related to people. Ot's just governance for fun, and has no value or utility. It's just there to potentially align community in a better way. 
+[Snapshot](https://snapshot.org/#/10b57e6da0.eth) page https://snapshot.org/#/10b57e6da0.eth can be used together with [multisig](https://etherscan.io/address/0x557068a9b7d66f97a61b97c80541eb17672e1e6f) in order to decide what to do with NFTs or any other in the multisig. The collection or the NFTs have no governance over chats, rules, or anything else related to people. It's just governance for fun, and has no value or utility. It's just there to potentially align community in a better way. 
 
-## How to get one? Distribution report on the transparency
+## How to get one? Distribution transparency
 
-This is, unfortunately, not a money grab, and we kinda all have ethos (read below)... which sucks! As such, the distribution is fully aimed at existing contributing members getting **85%** of the collection. All verifiable real people who have been amazing contributors sharing news, alpha, research, their knowledge. 
+This is, unfortunately, not a money grab, and we kinda all have ethos (read below)... which sucks! As such, the distribution is fully aimed at existing contributing members getting **85%** of the collection. All are verifiable real people who have been amazing contributors sharing news, alpha, research, their knowledge. 
 
 They are what Lobsters are about. You can get one if you are:
 
@@ -57,15 +58,15 @@ They are what Lobsters are about. You can get one if you are:
 
 If you don’t qualify as either one of the people above - there is no other way to get it. There is no sale, muh friend allocation, or whatever. *Are you still not a lobster? NGMI!*
 
-Here is the link to the distribution sheet related to which members got how much: IPFS [link 1](https://bafybeif2y2qnpom4bett5jnplgjlglfjgpjye6hupxefjbsrgviqciwe2q.ipfs.infura-ipfs.io/) and [link 2](https://bafybeiflgdig3mkoce5xd6uje7tgaejt2shwgoowwatzyxvepdynfh2oym.ipfs.infura-ipfs.io/) or if it dies, [here](https://docs.google.com/spreadsheets/d/1vjGXNyAMmudhZ6R7_qAPPs7RgES5DbMiiSAoeMnngw4/edit?usp=sharing) is the google link which might also die after some time, or you can use the [perma-pdf](https://arweave.net/e1Iqreo9B0U-H5IgCiF_AE7Mm7dSKGG0IeHqBu-hCyc) (living on Arweave's permaweb). With using this [link](https://telegra.ph/How-to-find-yourself-in-the-table-quickly-and-find-out-if-I-am-deserving-the-NFT-09-19) you can see how to check if you are eligible for a drop and get your Telegram ID. 
+Here is the link to the distribution sheet related to which members got how much: IPFS [link 1](https://bafybeif2y2qnpom4bett5jnplgjlglfjgpjye6hupxefjbsrgviqciwe2q.ipfs.infura-ipfs.io/) and [link 2](https://bafybeiflgdig3mkoce5xd6uje7tgaejt2shwgoowwatzyxvepdynfh2oym.ipfs.infura-ipfs.io/) or if it dies, [here](https://docs.google.com/spreadsheets/d/1vjGXNyAMmudhZ6R7_qAPPs7RgES5DbMiiSAoeMnngw4/edit?usp=sharing) is the google link which might also die after some time. With using this [link](https://telegra.ph/How-to-find-yourself-in-the-table-quickly-and-find-out-if-I-am-deserving-the-NFT-09-19) you can see how to check if you are eligible for a drop and get your Telegram ID. 
 
 ## How will the process work?
 
 1. The distribution and the model [were discussed](https://lobsters.substack.com/p/lobsterdao-nft-3-propuesta-publica) openly for weeks, nothing was gated. The collection was technically prepared by a few amazing contributors, thanks to them.
-2. When the [telegram bot](https://t.me/blockchain_lobsters/878) is up, you need to submit your address to the bot (see more in privacy notice at the bottom) within the time specified. If you miss the slot, you are ngmi, that’s over then. All the pieces which are not claimed will go to DAO.
-3. A merkle tree and root are generated and then uploaded into the contract. Once the contract is up, you will be able to use that address and claim it on UI which will match it with the merkle. At this point, you will just have an NFT unique token but no image to be seen.
-4. Once the time is up, the Contract Owner [multisig](https://twitter.com/10b57e6da0/status/1441728628824346624) will generate the seed based on Chainlink VRF which then matches the path to IPFS storage where the collection was pre-uploaded. This way, developers promise randomization of the loot box concept will be fully transparent! Which is cool.
-5. Then the tokenURI changes to the right path as assigned everywhere, and the collection is considered deployed. The bot and its database are promised to be deleted, and the work is done. Somebody should make a snapshot page and assign multisig
+2. When the [telegram bot](https://t.me/blockchain_lobsters/878) is up, you need to submit your address to the bot (see more in privacy notice at the bottom) within the time specified. If you miss the slot, you are ngmi, that’s over then. All the pieces which are not claimed will go to DAO. *Update 08.10: about 1250 people mamaged to register with the bot, and about 10 messaged in time to get added manually. That's about 35% of people representing over 50% of the supply.*
+3. A merkle tree and root are generated and then uploaded into the contract. Once the contract is up, you will be able to use that address and claim it on UI which will match it with the merkle. At this point, you will just have an NFT unique token but no image to be seen, nothing yet.
+4. After a few days, the Contract Owner [multisig](https://twitter.com/10b57e6da0/status/1441728628824346624) will generate the seed based on Chainlink VRF which then matches the path to IPFS storage where the collection was pre-uploaded. This way, developers promise randomization of the loot box concept will be fully transparent! Which is cool because it's like a reveal ceremony. After the seed is generated, people can technically know what piece they got attributed.
+5. Then the tokenURI changes to the right path as assigned everywhere, and the collection is considered deployed. The bot and its database are promised to be deleted, and the work is done. Somebody should make a snapshot page and assign multisig.
 6. Done. Don’t expect any work. Collect the art and piss off <3
 
 ### Why 6751?
@@ -109,6 +110,13 @@ No conversations about their trading or related topics will be tolerated whatsoe
 - Nobody will keep working on developing some games or whatever, the collection is more in the style of “pfp” aka profile picture related. There are no admins who will help you with questions. Forget about these things.
 
 - When it comes to the bot distribution, it’s also hosted by anon devs, so they may steal your data as in the wallet associated with your telegram account. Will they? Nobody knows. Most likely they won’t. Just use a new clean wallet if it bothers you.
+
+## Rules about the collection.
+
+1. The discssions on governance can better happen in here as comments or in NFT Avenue (see below for link). The main LobsterDAO chat will not tolerate random proposals (unless genuinely useful) or some random ideas-questions. 
+2. The chat will not get polluted by random pfp sharing or asking for prices or anything. As stated above, there is no team or person responsible for anything. After a week from launch, sharing pictures or random stuff about the collection will be heavily moderated.
+3. Nobody will hand-hold you to do anything, because everything is explained here. If you didn't read the disclaimers or all other information, you can be muted. Don't cry later that somebody didn't explain to you something. This is not a company with support serivce.
+4. Be cool, contribute good content, and have a good time!
 
 #### Community-made chats and statistics, not “officially” monitored:
 |||
