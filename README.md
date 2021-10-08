@@ -111,11 +111,11 @@ No conversations about their trading or related topics will be tolerated whatsoe
 
 - When it comes to the bot distribution, it’s also hosted by anon devs, so they may steal your data as in the wallet associated with your telegram account. Will they? Nobody knows. Most likely they won’t. Just use a new clean wallet if it bothers you.
 
-## Rules about the collection.
+## Rules about communications.
 
-1. The discssions on governance can better happen in here as comments or in NFT Avenue (see below for link). The main LobsterDAO chat will not tolerate random proposals (unless genuinely useful) or some random ideas-questions. 
-2. The chat will not get polluted by random pfp sharing or asking for prices or anything. As stated above, there is no team or person responsible for anything. After a week from launch, sharing pictures or random stuff about the collection will be heavily moderated.
-3. Nobody will hand-hold you to do anything, because everything is explained here. If you didn't read the disclaimers or all other information, you can be muted. Don't cry later that somebody didn't explain to you something. This is not a company with support serivce.
+1. The discssions on governance can better happen in here as comments or in NFT Avenue (see below for link). The main LobsterDAO chat will not tolerate random proposals (unless genuinely useful) or some random ideas-questions. NFT Avenue should be kept clean as well.
+2. The chat will not get polluted by random pfp sharing or asking for prices or anything. As stated above, there is no team or person responsible for anything. After a week from launch, sharing pictures or random stuff about the collection will be heavily moderated. 
+3. Nobody will hand-hold you to do anything, because everything is explained here. If you didn't read the disclaimers or all other information, you can be muted. Don't cry later that somebody didn't explain to you something. There is no company with support serivce.
 4. Be cool, contribute good content, and have a good time!
 
 #### Community-made chats and statistics, not “officially” monitored:
