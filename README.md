@@ -1,6 +1,6 @@
 Opensea Collection: 
 
-Token Contract: 
+Token Contract: https://etherscan.io/token/0x026224a2940bfe258d0dbe947919b62fe321f042
 
 Multisig: https://etherscan.io/address/0x557068a9b7d66f97a61b97c80541eb17672e1e6f
 
