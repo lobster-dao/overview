@@ -42,7 +42,7 @@ The collection has different rarity traits, inspired by cryptopunks and other pf
 
 ### The collection can have a snapshot page for governance
 
-[Snapshot](https://snapshot.org/#/10b57e6da0.eth) page https://snapshot.org/#/10b57e6da0.eth can be used together with [multisig](https://etherscan.io/address/0x557068a9b7d66f97a61b97c80541eb17672e1e6f) in order to decide what to do with NFTs or any other in the multisig. The collection or the NFTs have no governance over chats, rules, or anything else related to people. It's just governance for fun, and has no value or utility. It's just there to potentially align community in a better way. 
+[Snapshot](https://snapshot.org/#/10b57e6da0.eth) page https://snapshot.org/#/10b57e6da0.eth can be used together with [multisig](https://etherscan.io/address/0x557068a9b7d66f97a61b97c80541eb17672e1e6f) in order to decide what to do with NFTs or any other in the multisig. The collection or the NFTs have no governance over chats, rules, or anything else related to people. It's just governance for fun, and has no value or utility. It's just there to potentially align community in a better way. 1 LOBS NFT = 1 vote. Simple!
 
 ## How to get one? Distribution transparency
 
