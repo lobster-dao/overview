@@ -46,7 +46,7 @@ The collection has different rarity traits, inspired by cryptopunks and other pf
 
 ## How to get one? Distribution transparency
 
-This is, unfortunately, not a money grab, and we kinda all have ethos (read below)... which sucks! As such, the distribution is fully aimed at existing contributing members getting **85%** of the collection. All are verifiable real people who have been amazing contributors sharing news, alpha, research, their knowledge. 
+This is, unfortunately, not a money grab, and we kinda all have ethos (read below)... which sucks! As such, the distribution is fully aimed at existing contributing members getting **83%** of the collection. All are verifiable real people who have been amazing contributors sharing news, alpha, research, their knowledge. 
 
 They are what Lobsters are about. You can get one if you are:
 
@@ -57,6 +57,8 @@ They are what Lobsters are about. You can get one if you are:
 - **Being a holder of one of the creme de lá creme of NFT summer collections** CryptoPunks (125), Bored Apes (75), Loot (50) - will let you claim on FCFS basis one of the pieces per collection respectively. These communities were one of the most impactful in the NFT space, so honouring them seemed sensible.
 
 - According to that, **over 371 will be remaining for the DAO governance by 10b57e6da0 NFT holders**, which has its own snapshot page and its own multisig of community members. They can be used for whatever the holders decide, and can also be for… nothing. Unclaimed pieces from the lists above will also go to DAO.
+
+*UPDATE 09.10: the bot registrations together with extra participation badges count up to 3214 pieces - which is the total merkle. Next to that, 250 were for all the collections. In total, participants can claim 3464. The DAO will have 3287 remaining. This is not what was envisioned at the start as 83% was supposed to go to chat memmbers, but after >1 week people just stopped registering... can't force people to get NFTs if they don't want to!*
 
 If you don’t qualify as either one of the people above - there is no other way to get it. There is no sale, muh friend allocation, or whatever. *Are you still not a lobster? NGMI!*
 
