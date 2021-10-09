@@ -44,7 +44,7 @@ The collection has different rarity traits, inspired by cryptopunks and other pf
 
 [Snapshot](https://snapshot.org/#/10b57e6da0.eth) page https://snapshot.org/#/10b57e6da0.eth can be used together with [multisig](https://etherscan.io/address/0x557068a9b7d66f97a61b97c80541eb17672e1e6f) in order to decide what to do with NFTs or any other in the multisig. The collection or the NFTs have no governance over chats, rules, or anything else related to people. It's just governance for fun, and has no value or utility. It's just there to potentially align community in a better way. 
 
-1 LOBS NFT = 1 vote. Currently, 3 NFTs minimum threshold to create a proposal. This can be changed later.
+1 LOBS NFT = 1 vote. Currently, 3 NFTs minimum threshold to create a proposal. This can be changed later. The process is as follows: create an [ISSUE](https://github.com/lobster-dao/overview/issues) to discuss something (on github, not in chats) and then make snapshot proposal after some time of discussions taking place.
 
 ## How to get one? Distribution transparency
 
@@ -119,7 +119,7 @@ No conversations about their trading or related topics will be tolerated whatsoe
 
 ## Rules about communications.
 
-1. The discssions on governance can better happen here in [ISSUES](https://github.com/lobster-dao/overview/issues) or NFT Avenue (see below for link) as preliminary ideas - and then submitted to snapshot for voting. The main LobsterDAO chat will not tolerate random proposals (unless genuinely useful) or some random ideas-questions. NFT Avenue should be kept clean as well.
+1. The discssions on governance can = happen here in [ISSUES](https://github.com/lobster-dao/overview/issues) as preliminary ideas - and then submitted to snapshot for voting. The main LobsterDAO chat will not tolerate random proposals (unless genuinely useful) or some random ideas-questions. NFT Avenue should be kept clean as well.
 2. The chat will not get polluted by random pfp sharing or asking for prices or anything. As stated above, there is no team or person responsible for anything. After a week from launch, sharing pictures or random stuff about the collection will be heavily moderated. 
 3. Nobody will hand-hold you to do anything, because everything is explained here. If you didn't read the disclaimers or all other information, you can be muted. Don't cry later that somebody didn't explain to you something. There is no company with support serivce.
 4. Be cool, contribute good content, and have a good time!
