@@ -6,6 +6,11 @@ Multisig: https://etherscan.io/address/0x557068a9b7d66f97a61b97c80541eb17672e1e6
 
 UI: https://ipfs.io/ipfs/QmZ3Y8kWZRUaj5omPVxBhBcF8RE62nKb7PLLnwbqcKq6Xd/
 
+Governance Discussions (step 1): https://github.com/lobster-dao/overview/issues
+
+Governance Voting (step 2): https://snapshot.org/#/10b57e6da0.eth/
+
+
 -//-: 
 
 [![Watch the video](https://i.ibb.co/bdXMY2F/Colorful-Neon-Marble-Gaming-You-Tube-Channel-Art-38.png)](https://twitter.com/10b57e6da0/status/1437718925710594048)
