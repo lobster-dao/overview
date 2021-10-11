@@ -8,9 +8,9 @@ UI: https://ipfs.io/ipfs/QmZ3Y8kWZRUaj5omPVxBhBcF8RE62nKb7PLLnwbqcKq6Xd/
 
 Community chat for fun and ideas 🦞 🌊 https://t.me/lobsterdao
 
-Governance Discussions (step 2): https://github.com/lobster-dao/overview/issues
+Governance Discussions (step 1): https://github.com/lobster-dao/overview/issues
 
-Governance Voting (step 3): https://snapshot.org/#/10b57e6da0.eth/
+Governance Voting (step 2): https://snapshot.org/#/10b57e6da0.eth/
 
 **- YOU CAN CREATE WHATEVER YOU WANT -**
 
