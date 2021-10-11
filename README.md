@@ -6,12 +6,13 @@ Multisig: https://etherscan.io/address/0x557068a9b7d66f97a61b97c80541eb17672e1e6
 
 UI: https://ipfs.io/ipfs/QmZ3Y8kWZRUaj5omPVxBhBcF8RE62nKb7PLLnwbqcKq6Xd/
 
-Governance Discussions (step 1): https://github.com/lobster-dao/overview/issues
+Community chat for fun and ideas 🦞 🌊 https://t.me/lobsterdao
 
-Governance Voting (step 2): https://snapshot.org/#/10b57e6da0.eth/
+Governance Discussions (step 2): https://github.com/lobster-dao/overview/issues
 
+Governance Voting (step 3): https://snapshot.org/#/10b57e6da0.eth/
 
--//-: 
+**- YOU CAN CREATE WHATEVER YOU WANT -**
 
 [![Watch the video](https://i.ibb.co/bdXMY2F/Colorful-Neon-Marble-Gaming-You-Tube-Channel-Art-38.png)](https://twitter.com/10b57e6da0/status/1437718925710594048)
 
@@ -124,7 +125,7 @@ No conversations about their trading or related topics will be tolerated whatsoe
 
 ## Rules about communications.
 
-1. The discssions on governance can = happen here in [ISSUES](https://github.com/lobster-dao/overview/issues) as preliminary ideas - and then submitted to snapshot for voting. The main LobsterDAO chat will not tolerate random proposals (unless genuinely useful) or some random ideas-questions. NFT Avenue should be kept clean as well.
+1. The discssions on governance can = happen here in [ISSUES](https://github.com/lobster-dao/overview/issues) as preliminary ideas - and then submitted to snapshot for voting. The main LobsterDAO chat will not tolerate random proposals (unless genuinely useful) or some random ideas-questions. NFT Avenue should be kept clean as well. [Community chat is open for all!](https://t.me/lobsterdao)
 2. The chat will not get polluted by random pfp sharing or asking for prices or anything. As stated above, there is no team or person responsible for anything. After a week from launch, sharing pictures or random stuff about the collection will be heavily moderated. 
 3. Nobody will hand-hold you to do anything, because everything is explained here. If you didn't read the disclaimers or all other information, you can be muted. Don't cry later that somebody didn't explain to you something. There is no company with support serivce.
 4. Be cool, contribute good content, and have a good time!
@@ -132,15 +133,11 @@ No conversations about their trading or related topics will be tolerated whatsoe
 #### Community-made chats and statistics, not “officially” monitored:
 |||
 |--|--|
-|Posts with top replies & Daily stats| https://t.me/lobster_watcher |
-| Daily Newsletter | https://t.me/lobsters_daily & https://twitter.com/lobsters_daily |
+|Main channel|https://t.me/blockchain_lobsters|
+|Dev crypto Chat|https://t.me/lobsters_chat|
+|Twitter |https://twitter.com/10b57e6da0|
+|Substack|https://lobsters.substack.com|
+|Daily Newsletter | https://t.me/lobsters_daily |
+|Posts with top replies | https://t.me/lobster_watcher |
 |Job Board|https://t.me/lobsters_hr|
 |NFT-themed Chat|https://t.me/NFT_avenue|
-
-#### Official links:
-|||
-|--|--|
-|Main TG channel|https://t.me/blockchain_lobsters|
-|Main Chat|https://t.me/lobsters_chat|
-|Official Twitter |https://twitter.com/10b57e6da0|
-|Substack|https://lobsters.substack.com|
