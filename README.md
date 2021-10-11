@@ -134,10 +134,10 @@ No conversations about their trading or related topics will be tolerated whatsoe
 |||
 |--|--|
 |Main channel|https://t.me/blockchain_lobsters|
-|Dev crypto Chat|https://t.me/lobsters_chat|
+|Dev DeFi chat|https://t.me/lobsters_chat|
 |Twitter |https://twitter.com/10b57e6da0|
-|Substack|https://lobsters.substack.com|
+|NFT-themed Chat|https://t.me/NFT_avenue|
+|Substack |https://lobsters.substack.com|
 |Daily Newsletter | https://t.me/lobsters_daily |
 |Posts with top replies | https://t.me/lobster_watcher |
-|Job Board|https://t.me/lobsters_hr|
-|NFT-themed Chat|https://t.me/NFT_avenue|
+|Job Board |https://t.me/lobsters_hr|
