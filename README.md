@@ -8,6 +8,8 @@ UI: https://ipfs.io/ipfs/QmZ3Y8kWZRUaj5omPVxBhBcF8RE62nKb7PLLnwbqcKq6Xd/
 
 Community chat for fun and ideas 🦞 🌊 https://t.me/lobsterdao
 
+Discord for DAO work https://discord.gg/PpPV9GnE55
+
 Governance Discussions (step 1): https://github.com/lobster-dao/overview/issues
 
 Governance Voting (step 2): https://snapshot.org/#/10b57e6da0.eth/
