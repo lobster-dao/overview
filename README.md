@@ -14,6 +14,8 @@ Governance Discussions (step 1): https://github.com/lobster-dao/overview/issues
 
 Governance Voting (step 2): https://snapshot.org/#/10b57e6da0.eth/
 
+Perks for Lobster NFT holders: https://github.com/kkkrackpot/lobsterdao-perks 
+
 **- YOU CAN CREATE WHATEVER YOU WANT -**
 
 [![Watch the video](https://i.ibb.co/bdXMY2F/Colorful-Neon-Marble-Gaming-You-Tube-Channel-Art-38.png)](https://twitter.com/10b57e6da0/status/1437718925710594048)
