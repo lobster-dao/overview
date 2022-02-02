@@ -87,7 +87,7 @@ Here is the link to the distribution sheet related to which members got how much
 
 ### ERC20 ideas
 
-Lobsterdao will not **ever** make an official ERC20 token no way. [Prooflink](https://t.me/lobsters_chat/315454)
+Lobsterdao will not **ever** make an official ERC20 token no way. Do not fall into scam and impersonations. [Prooflink](https://t.me/lobsters_chat/315454)
 
 
 ### Why 6751?
