@@ -85,6 +85,11 @@ Here is the link to the distribution sheet related to which members got how much
 5. Then the tokenURI changes to the right path as assigned everywhere, and the collection is considered deployed. The bot and its database are promised to be deleted, and the work is done. Somebody should make a snapshot page and assign multisig.
 6. Done. Don’t expect any work. Collect the art and piss off <3
 
+### ERC20 ideas
+
+Lobsterdao will not **ever** make an official ERC20 token no way. [Prooflink](https://t.me/lobsters_chat/315454)
+
+
 ### Why 6751?
 
 LobsterDAO… 10b57e6da0… 105760… Now try the inverse, like looking at your own reflection: 067501. Remove the zeros and you end up with a number. It seemed cute because there are over 3000 active members. And a few of them get more than 1.
