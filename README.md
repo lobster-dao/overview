@@ -1,3 +1,5 @@
+LooksRare Collection: https://looksrare.org/collections/0x026224A2940bFE258D0dbE947919B62fE321F042
+
 Opensea Collection: https://opensea.io/collection/lobsterdao
 
 Token Contract: https://etherscan.io/token/0x026224a2940bfe258d0dbe947919b62fe321f042
@@ -8,13 +10,16 @@ UI: https://ipfs.io/ipfs/QmZ3Y8kWZRUaj5omPVxBhBcF8RE62nKb7PLLnwbqcKq6Xd/
 
 Community chat for fun and ideas 🦞 🌊 https://t.me/lobsterdao
 
-Discord for DAO work https://discord.gg/PpPV9GnE55
+Discord for DAO diuscussions https://discord.gg/PpPV9GnE55
 
 Governance Discussions (step 1): https://github.com/lobster-dao/overview/issues
 
 Governance Voting (step 2): https://snapshot.org/#/10b57e6da0.eth/
 
 Perks for Lobster NFT holders: https://github.com/kkkrackpot/lobsterdao-perks 
+
+Info & links: https://graph.org/LobsterDAO-rules-01-21
+
 
 **- YOU CAN CREATE WHATEVER YOU WANT -**
 
