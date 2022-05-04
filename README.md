@@ -1,33 +1,20 @@
-LooksRare Collection: https://looksrare.org/collections/0x026224A2940bFE258D0dbE947919B62fE321F042
+Community NFT-gated alpha & vibes chat 🦞 🌊 🦐 🦀 [Telegram CollabLand Join Link](https://telegram.me/collablandbot?start=VFBDI1RFTCNDT01NIy0xMDAxNTc3NzExMjQx)
 
-Opensea Collection: https://opensea.io/collection/lobsterdao
+*lobsterdao NFT is a badge of honour and IQ, some say - if you have a lobsterdao nft, gm to you*
 
-Token Contract: https://etherscan.io/token/0x026224a2940bfe258d0dbe947919b62fe321f042
+Get your seafood creature:
+* LooksRare: https://looksrare.org/collections/0x026224A2940bFE258D0dbE947919B62fE321F042
+* Opensea: https://opensea.io/collection/lobsterdao
 
-Multisig: https://etherscan.io/address/0x557068a9b7d66f97a61b97c80541eb17672e1e6f
+Contracts & On-Chain:
+* Token Contract: https://etherscan.io/token/0x026224a2940bfe258d0dbe947919b62fe321f042
+* Multisig: https://etherscan.io/address/0x557068a9b7d66f97a61b97c80541eb17672e1e6f
+* Old mint UI: https://ipfs.io/ipfs/QmZ3Y8kWZRUaj5omPVxBhBcF8RE62nKb7PLLnwbqcKq6Xd/
+* Governance Voting: https://snapshot.org/#/10b57e6da0.eth/
 
-UI: https://ipfs.io/ipfs/QmZ3Y8kWZRUaj5omPVxBhBcF8RE62nKb7PLLnwbqcKq6Xd/
-
-Community chat for fun and ideas 🦞 🌊 https://t.me/lobsterdao
-
-Discord for DAO diuscussions https://discord.gg/PpPV9GnE55
-
-Governance Discussions (step 1): https://github.com/lobster-dao/overview/issues
-
-Governance Voting (step 2): https://snapshot.org/#/10b57e6da0.eth/
-
-Perks for Lobster NFT holders: https://github.com/kkkrackpot/lobsterdao-perks 
-
-Info & links: https://graph.org/LobsterDAO-rules-01-21
-
-
-**- YOU CAN CREATE WHATEVER YOU WANT -**
+Info & links: https://lobsters.substack.com/p/founders-and-daos-want-some-seafood
 
 [![Watch the video](https://i.ibb.co/bdXMY2F/Colorful-Neon-Marble-Gaming-You-Tube-Channel-Art-38.png)](https://twitter.com/10b57e6da0/status/1437718925710594048)
-
-*lobsterdao NFT is a badge of honour and IQ, some say - but, of course, we are biased* 
-
-*if you have a lobsterdao nft, gm to you and you are gmi*
 
 # Hey there, seafood family! 
 
@@ -150,7 +137,6 @@ No conversations about their trading or related topics will be tolerated whatsoe
 |Main channel|https://t.me/blockchain_lobsters|
 |Dev DeFi chat|https://t.me/lobsters_chat|
 |Twitter |https://twitter.com/10b57e6da0|
-|Discord |https://discord.gg/PpPV9GnE55|
 |NFT-themed Chat|https://t.me/NFT_avenue|
 |Substack |https://lobsters.substack.com|
 |Daily Newsletter | https://t.me/lobsters_daily |
