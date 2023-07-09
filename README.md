@@ -1,16 +1,18 @@
-Community NFT-gated alpha & vibes chat 🦞 🌊 🦐 🦀 [Telegram CollabLand Join Link](https://telegram.me/collablandbot?start=VFBDI1RFTCNDT01NIy0xMDAxNTc3NzExMjQx)
+Community NFT-gated exclusive chat 🦞 🌊 🦐 🦀 [Telegram CollabLand Join Link](https://telegram.me/collablandbot?start=VFBDI1RFTCNDT01NIy0xMDAxNTc3NzExMjQx)
 
-*lobsterdao NFT is a badge of honour and IQ, some say - if you have a lobsterdao nft, gm to you*
+*lobsterdao NFT is a badge of honour and IQ. Some say - if you have a lobsterdao nft, GM to you!*
 
 Get your seafood creature:
+* Sudo: https://sudoswap.xyz/#/browse/buy/0x026224A2940bFE258D0dbE947919B62fE321F042
 * LooksRare: https://looksrare.org/collections/0x026224A2940bFE258D0dbE947919B62fE321F042
 * Opensea: https://opensea.io/collection/lobsterdao
+* Blur: https://blur.io/collection/lobsterdao
 
-Contracts & On-Chain:
+Contracts & On-Chain Info:
 * Token Contract: https://etherscan.io/token/0x026224a2940bfe258d0dbe947919b62fe321f042
-* Multisig: https://etherscan.io/address/0x557068a9b7d66f97a61b97c80541eb17672e1e6f
+* Multisig Teasury: https://etherscan.io/address/0x557068a9b7d66f97a61b97c80541eb17672e1e6f
 * Old mint UI: https://ipfs.io/ipfs/QmZ3Y8kWZRUaj5omPVxBhBcF8RE62nKb7PLLnwbqcKq6Xd/
-* Governance Voting: https://snapshot.org/#/10b57e6da0.eth/
+* Governance Voting space: https://snapshot.org/#/10b57e6da0.eth/
 
 Info & links: https://lobsters.substack.com/p/founders-and-daos-want-some-seafood
 
@@ -20,9 +22,9 @@ Info & links: https://lobsters.substack.com/p/founders-and-daos-want-some-seafoo
 
 **10b57e6da0 NFT** drop is a commemorative art event for the community in the form of NFTs. It’s a loot box where you can pull out one of the cool pieces: a shrimp, a langoustine, a lobster, and… something else? Nobody will know in advance, that’s also why it's fun.
 
-The collection contains **6751 pieces** and is fully done by [Klibansky](https://josephklibansky.com/), a famous contemporary artist. The distribution of the pieces is aimed at members who have contributed research to the chat, about **83%** of the total supply go to them initially. A few of the pieces were also reserved for known NFT collectors and all the unclaimed go to governance. Over a thousand holders at first, thanks to over 3 years of the community forming together!
+The collection contains **6751 pieces** and is fully done by [Klibansky](https://josephklibansky.com/), a famous contemporary artist. The distribution of the pieces is aimed at members who have contributed research to the chat, about **83%** of the total supply goes to them initially. A few of the pieces were also reserved for known NFT collectors and all the unclaimed go to governance. Over a thousand holders at first, thanks to over 3 years of the community forming together!
 
-*Are you still not a lobster? NGMI, pleb! Read below to learn wtf this is.*
+*Are you still not a lobster? NGMI! Read below to learn wtf this is.*
 
 ## 10b57e6da0 NFT Seafood Drop - Traits?
 
@@ -38,9 +40,11 @@ Going with that story and given that lobsters are about crustaceans, the collect
 
 The collection has different rarity traits, inspired by cryptopunks and other pfp projects, because it just works. But instead of having the usual cigarette-cap-etc. the rarity comes from different materials of the claws, the backgrounds, and so on. It’s more about aesthetic enjoyment, so don’t let the original holders or anyone else dictate you if something is better or rarer. 
 
-### The collection has 7.5% royalties 
+### The collection has 7.5% royalties (initially)
 
 **70%** of that goes to DAO governance that is managed by community multisig, and **30%** goes to the artist side. While the collection is not an NFT project, this allows the collection to have some longevity and cooperation possible, in case holders decide they want to do something. They also don’t have to do anything. Royalties are unfortunately, due to how NFT markets are, are kind of an old hand-maintained manual work… but it would be great to change this as EIP-standards develop in this direction. We are aware of `EIP2981`, but this doesn’t really change much with regard to how Opensea works.
+
+*Update 2023: Opensea, as well as some other marketplacs, have forcefully removed royalties. Check yourself what's the best marketplace for you. The royalties and fees might not be harmonized anymore, because there is no promise of work or contributions here. It's set up to be free & open, not managed by anyone.*
 
 ### The collection can have a snapshot page for governance
 
@@ -64,7 +68,7 @@ They are what Lobsters are about. You can get one if you are:
 
 *UPDATE 09.10: the bot registrations together with extra participation badges count up to 3214 pieces - which is the total merkle. Next to that, 250 were for all the collections. In total, participants can claim 3464. The DAO will have 3287 remaining. This is not what was envisioned at the start as 83% was supposed to go to chat memmbers, but after >1 week people just stopped registering... can't force people to get NFTs if they don't want to!*
 
-If you don’t qualify as either one of the people above - there is no other way to get it. There is no sale, muh friend allocation, or whatever. *Are you still not a lobster? NGMI!*
+If you don’t qualify as either one of the people above - there is no other way to get it. There is no sale, muh friend allocation, or whatever.
 
 Here is the link to the distribution sheet related to which members got how much: IPFS [link 1](https://bafybeif2y2qnpom4bett5jnplgjlglfjgpjye6hupxefjbsrgviqciwe2q.ipfs.infura-ipfs.io/) and [link 2](https://bafybeiflgdig3mkoce5xd6uje7tgaejt2shwgoowwatzyxvepdynfh2oym.ipfs.infura-ipfs.io/) or if it dies, [here](https://docs.google.com/spreadsheets/d/1vjGXNyAMmudhZ6R7_qAPPs7RgES5DbMiiSAoeMnngw4/edit?usp=sharing) is the google link which might also die after some time. With using this [link](https://telegra.ph/How-to-find-yourself-in-the-table-quickly-and-find-out-if-I-am-deserving-the-NFT-09-19) you can see how to check if you are eligible for a drop and get your Telegram ID. 
 
@@ -79,7 +83,7 @@ Here is the link to the distribution sheet related to which members got how much
 
 ### ERC20 ideas
 
-Lobsterdao will not **ever** make an official ERC20 (and any other form of token) no way. Do not fall into scam and impersonations. [Prooflink](https://t.me/lobsters_chat/315454)
+lobsterdao will not **ever** make an official ERC20 (and any other form of token). There is strong consensus against it. Do not fall into scams and impersonations. If anything is to be made by anyone, it should not be endorsed.
 
 
 ### Why 6751?
@@ -93,10 +97,6 @@ The name meme came from Curve deployment during DeFi summer of 2020, read more [
 Blockchain Lobsters as a [channel](https://t.me/blockchain_lobsters) and then as a [chat-community](https://t.me/lobsters_chat) have existed since summer 2018 when the 2 year bear market carnage was going on in full force. It spawned out after CCR (CryptoCodeReviews) chat was closed by the Air Conditioner in 2018. But there was a need to ask semi-technical and economic research questions, so Lobsters took that role for some. We try not to gamble too much, and focus on product things. Unless we get drunk!
 
 There was never a coin, marketing, or anything monetary involved. Just a place to research anything-crypto, share ideas, ask questions. Perhaps, this is why some like the chat. It will stay that way, as the ethos is to remain impartial, simply sharing knowledge and opportunities. Anyway, the rest is history, all the conversations are open after all. Read back, ctrl+f on some topics, and feel free to contribute new information. 
-
-History of the pre-discussions at:
-- https://t.me/lobsters_chat/261364
-- https://t.me/lobsters_chat/265688
 
 <> <> <> <> <> <> <> <> <>
 
@@ -134,8 +134,8 @@ No conversations about their trading or related topics will be tolerated whatsoe
 #### Community-made chats and statistics, not “officially” monitored:
 |||
 |--|--|
-|Main channel|https://t.me/blockchain_lobsters|
-|Dev DeFi chat|https://t.me/lobsters_chat|
+|Crab Notes channel|https://t.me/blockchain_lobsters|
+|Main Research chat|https://t.me/lobsters_chat|
 |Twitter |https://twitter.com/10b57e6da0|
 |NFT-themed Chat|https://t.me/NFT_avenue|
 |Substack |https://lobsters.substack.com|
